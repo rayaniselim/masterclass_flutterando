@@ -19,9 +19,14 @@ O Resultado deve ser igual ao primeiro dígito verificador.
 
 - Cálculo do segundo dígito verificar:
 
-1. Pegaremos os primeiros 10 dígitos do CPF (111.444.777-1) e multiplicamos cada um dos números, da direita para a esquerda por números crescentes a partir do número 2.
+1. Pegaremos os primeiros 10 dígitos do CPF (111.444.777-1) e multiplicamos cada um dos números, 
+da direita para a esquerda por números crescentes a partir do número 2.
 
 2. Com o resultado em mãos, siga os passos 2, 3 e 4 do cálculo do primeiro dígito.
 
 O Resultado deve ser igual ao segundo dígito verificador.
 */
+
+void main() {
+  String validation;
+}
